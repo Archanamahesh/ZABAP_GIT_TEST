@@ -13,6 +13,10 @@
      <REMOTE_CALL>R</REMOTE_CALL>
      <SHORT_TEXT>Test RFC Connection</SHORT_TEXT>
     </item>
+    <item>
+     <FUNCNAME>ZTRIGGER_RFC</FUNCNAME>
+     <SHORT_TEXT>Trigger RFC</SHORT_TEXT>
+    </item>
    </FUNCTIONS>
   </asx:values>
  </asx:abap>
